@@ -1,4 +1,4 @@
-# reimagined-fiesta
+# CRM project
 
 ## Frontend project setup written in VueJs.
 
